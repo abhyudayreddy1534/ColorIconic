@@ -129,10 +129,6 @@ struct Hand: View {
     }
 }
 
-#Preview(body: {
-    Hand()
-})
-
 #Preview {
     RecordPlayerAnimationView()
 }
