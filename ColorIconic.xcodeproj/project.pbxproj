@@ -17,6 +17,9 @@
 		542EA90D2C13530A00AF45ED /* RecordPlayerAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 542EA90C2C13530A00AF45ED /* RecordPlayerAnimationView.swift */; };
 		542EA90F2C136DFE00AF45ED /* ColorShifterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 542EA90E2C136DFE00AF45ED /* ColorShifterView.swift */; };
 		542EA9112C1766F900AF45ED /* Lanyardview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 542EA9102C1766F900AF45ED /* Lanyardview.swift */; };
+		54F2B9962C1A0F1200F5A8B3 /* SwiftLogoPathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F2B9952C1A0F1200F5A8B3 /* SwiftLogoPathView.swift */; };
+		54F2B9982C1A4C2400F5A8B3 /* LogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F2B9972C1A4C2400F5A8B3 /* LogoView.swift */; };
+		54F2B99A2C1A546700F5A8B3 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54F2B9992C1A546700F5A8B3 /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +34,9 @@
 		542EA90C2C13530A00AF45ED /* RecordPlayerAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordPlayerAnimationView.swift; sourceTree = "<group>"; };
 		542EA90E2C136DFE00AF45ED /* ColorShifterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorShifterView.swift; sourceTree = "<group>"; };
 		542EA9102C1766F900AF45ED /* Lanyardview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lanyardview.swift; sourceTree = "<group>"; };
+		54F2B9952C1A0F1200F5A8B3 /* SwiftLogoPathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLogoPathView.swift; sourceTree = "<group>"; };
+		54F2B9972C1A4C2400F5A8B3 /* LogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogoView.swift; sourceTree = "<group>"; };
+		54F2B9992C1A546700F5A8B3 /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +77,9 @@
 				542EA90A2C125B7900AF45ED /* CircleAnimationView.swift */,
 				542EA90C2C13530A00AF45ED /* RecordPlayerAnimationView.swift */,
 				542EA90E2C136DFE00AF45ED /* ColorShifterView.swift */,
+				54F2B9952C1A0F1200F5A8B3 /* SwiftLogoPathView.swift */,
+				54F2B9972C1A4C2400F5A8B3 /* LogoView.swift */,
+				54F2B9992C1A546700F5A8B3 /* TestView.swift */,
 				542EA8FC2C121FE600AF45ED /* Assets.xcassets */,
 				542EA8FE2C121FE600AF45ED /* Preview Content */,
 			);
@@ -157,8 +166,11 @@
 			files = (
 				542EA8FB2C121FE500AF45ED /* ContentView.swift in Sources */,
 				542EA90B2C125B7900AF45ED /* CircleAnimationView.swift in Sources */,
+				54F2B9962C1A0F1200F5A8B3 /* SwiftLogoPathView.swift in Sources */,
 				542EA9112C1766F900AF45ED /* Lanyardview.swift in Sources */,
+				54F2B99A2C1A546700F5A8B3 /* TestView.swift in Sources */,
 				542EA9092C122C1300AF45ED /* AnimationView.swift in Sources */,
+				54F2B9982C1A4C2400F5A8B3 /* LogoView.swift in Sources */,
 				542EA90D2C13530A00AF45ED /* RecordPlayerAnimationView.swift in Sources */,
 				542EA9072C12204800AF45ED /* IconView.swift in Sources */,
 				542EA90F2C136DFE00AF45ED /* ColorShifterView.swift in Sources */,
